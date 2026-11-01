@@ -1,0 +1,12 @@
+frontend/
+backups/
+docs/
+tests/
+.pytest_cache/
+pytest-of-ccc/
+.vscode/
+*.md
+*.png
+pytest.ini
+__pycache__/
+*.pyc
